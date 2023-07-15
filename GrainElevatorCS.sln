@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrainElevatorCS", "GrainElevatorCS\GrainElevatorCS.csproj", "{CACA81D9-C140-4E8F-AE15-7BB93643867C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACA81D9-C140-4E8F-AE15-7BB93643867C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACA81D9-C140-4E8F-AE15-7BB93643867C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACA81D9-C140-4E8F-AE15-7BB93643867C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACA81D9-C140-4E8F-AE15-7BB93643867C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B52085-082B-41F9-AA91-22BA0EC1B9D1}
+	EndGlobalSection
+EndGlobal
